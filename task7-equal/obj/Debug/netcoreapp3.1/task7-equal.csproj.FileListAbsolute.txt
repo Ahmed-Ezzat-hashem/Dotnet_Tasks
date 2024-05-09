@@ -1,0 +1,14 @@
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.AssemblyInfo.cs
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.exe
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.deps.json
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.runtimeconfig.json
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.runtimeconfig.dev.json
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.dll
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\bin\Debug\netcoreapp3.1\task7-equal.pdb
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.csproj.AssemblyReference.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.dll
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.pdb
+C:\Users\Ahmed Ezzat\source\repos\task7-equal\obj\Debug\netcoreapp3.1\task7-equal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.csproj.AssemblyReference.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.AssemblyInfo.cs
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.exe
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.deps.json
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.runtimeconfig.json
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.runtimeconfig.dev.json
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.dll
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\bin\Debug\netcoreapp3.1\task7-ToString.pdb
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.dll
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.pdb
+C:\Users\Ahmed Ezzat\source\repos\task7-ToString\obj\Debug\netcoreapp3.1\task7-ToString.genruntimeconfig.cache
